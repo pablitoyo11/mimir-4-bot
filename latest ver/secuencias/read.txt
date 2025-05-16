@@ -1,0 +1,3 @@
+in this folder save secuence for actions in a map.
+in maptravel only save secuence for clicking map ui and returning to desired map.
+both files with same name
