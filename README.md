@@ -11,5 +11,8 @@ I think there is a few more wich I stopped using long ago
 
 video showing
 map creation tool and activating bot to start one preselected trayectory searching chests / orbs in mirage ship, couldn't find much orbs to collect during video, server is full of automated bots already 
+
+<video src="https://github.com/user-attachments/assets/71160541-0f5d-480b-8e13-3625c4167158" controls="controls" style="max-width: 100%;">
+</video>
 https://github.com/user-attachments/assets/71160541-0f5d-480b-8e13-3625c4167158
 
